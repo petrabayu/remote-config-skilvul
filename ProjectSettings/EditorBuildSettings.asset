@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: e66f59867bd7090428189309f13a0f25
+  - enabled: 1
+    path: Assets/Scenes/RoomOnlineScene.unity
+    guid: 6a28002d733521a42a9355dd1042b222
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: 90daff23aa0f57d4e9f52925fa8210ba
+  - enabled: 1
+    path: Assets/Scenes/GameplayCard.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/VSBotOffline.unity
+    guid: 12e3f26e100490044971240558ee4541
+  m_configObjects: {}
